@@ -1,0 +1,17 @@
+# name='Denis'
+# print(name)
+# print('Hello '*5)
+# print('Hello '+name)
+# print('Hello '+'Denis')
+# print(name[0])
+# print(name[-1])
+# print(name[0:4])
+# print(name[:3])
+# print(name[0:5:2])
+# print(name[2:])
+example='Urban_University'
+print(example[0])
+print(example[-1])
+print(example[8:])
+print(example[::-1])
+print(example[1:16:2])
